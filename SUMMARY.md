@@ -9,8 +9,6 @@
 
 
 
-
-
 以下是其他的内容
 * Spring 在数据层和业务层实现数据的分层结构  Service层
     * [服务层的通用接口](src/main/java/service/GenericService.java)	
