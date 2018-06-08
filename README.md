@@ -3,6 +3,14 @@
 
 这个是Python的学习
 
+ese和执行文件
+PyCharm  专业版
+交互模式 做测试
+python xx.py 执行文件
+
+
+
+
 
 
 web.xml Project Structure-Facets- web 修改路径配置web.xml文件

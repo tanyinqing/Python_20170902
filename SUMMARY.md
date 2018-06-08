@@ -4,6 +4,7 @@
 * 普通文件
     * [第一行代码](Hello.py)
     * [输入与输出](ioTest.py)
+    * [常用的数据类型](dataTypeTest.py)
 
 
 
