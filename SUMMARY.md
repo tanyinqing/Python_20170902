@@ -1,10 +1,12 @@
 
 * [导读](README.md)
 
-* 普通文件
+* 基础部分
     * [第一行代码](Hello.py)
     * [输入与输出](ioTest.py)
     * [常用的数据类型](dataTypeTest.py)
+    * [变量](const.py)
+    * [常量](variable.py)
 
 
 

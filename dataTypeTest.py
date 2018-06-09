@@ -30,7 +30,7 @@ print('\\')
 print('\\t\\') #  输出\tab\
 print(r'\\t\\') # r 里面的\不是转义的作用
 print(r'\\')
-print('百日依山尽，\n黄河入海流')
+print('百日依山尽，\n黄河入海流')   # 英文不建议这样做
 
 # 换行的建议写法
 print('''百日依山尽，
@@ -55,10 +55,13 @@ print(None)  # 空值
 
 # 循环的分支机构
 # passed = (score>=60)
-passed = True
+passed = False
+
+# 四个空格相当于大括号
 
 if passed:
     print('passed...')
 else:
     print('failed...')
+    print('test...')
 
