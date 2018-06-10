@@ -7,6 +7,12 @@
     * [常用的数据类型](dataTypeTest.py)
     * [变量](const.py)
     * [常量](variable.py)
+    * [list数组](listTest.py)
+    * [元组](tupleTest.py)
+    * [选择语句](ifTest.py)
+    * [循环语句](loopTest.py)
+    * [字典容器相当于map](dictTest.py)
+    * [set数据集合](setTest.py)
 
 
 
