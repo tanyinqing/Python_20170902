@@ -13,7 +13,10 @@
     * [循环语句](loopTest.py)
     * [字典容器相当于map](dictTest.py)
     * [set数据集合](setTest.py)
-
+* 函数部分
+   * [系统函数](build_in_function.py)
+   * [关键字](python_keys.py)
+   * [自定义函数](self_definition_function.py)
 
 
 
