@@ -17,6 +17,7 @@
    * [系统函数](build_in_function.py)
    * [关键字](python_keys.py)
    * [自定义函数](self_definition_function.py)
+   * [3种参数](h6/h6_arguments.py)
 
 
 

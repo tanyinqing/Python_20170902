@@ -33,3 +33,5 @@ def multiple_return_func(x,y):
 a,b=multiple_return_func(1,2)
 print(a,b)
 print(multiple_return_func(1,2)) # tuple
+
+i,j,k=0,1,2;# 定义多个变量
