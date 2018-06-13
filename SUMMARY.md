@@ -18,6 +18,7 @@
    * [关键字](python_keys.py)
    * [自定义函数](self_definition_function.py)
    * [3种参数](h6/h6_arguments.py)
+   * [其他类型的参数](h7/h7_arguments.py)
 
 
 
