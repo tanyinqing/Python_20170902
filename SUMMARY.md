@@ -19,6 +19,8 @@
    * [自定义函数](self_definition_function.py)
    * [3种参数](h6/h6_arguments.py)
    * [其他类型的参数](h7/h7_arguments.py)
+   * [递归函数](h8/h8_recursive_test.py)
+   * [数据容器的截取](h8/h7_slice.py)
 
 
 

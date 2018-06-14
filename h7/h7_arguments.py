@@ -36,5 +36,9 @@ def student4(name,age,*args,loc,gender='Male'):# 命名关键字参数有一个�
 student4('Tom',18,loc='Beijing')
 
 # 函数的参数有位置 默认值 可变参数 关键字参数 d是命名关键字参数 5种
-def test_function(a,b,c=0,*args,**kw):
-    pass
+def test_function(a,b,c=0,*args,d,**kw):
+    print(a,b,c,args,d,kw)
+print(test_function(1,2,d=''))
+print(test_function(1,2,3,4,5,6,d=7))
+dict3={'k1':'v1','k2':'v2','k3':123,'k4':False}
+print(test_function(1,2,3,4,5,6,d=7,**dict3))
