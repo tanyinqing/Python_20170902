@@ -20,7 +20,12 @@
    * [3种参数](h6/h6_arguments.py)
    * [其他类型的参数](h7/h7_arguments.py)
    * [递归函数](h8/h8_recursive_test.py)
+* 数据容器部分
    * [数据容器的截取](h8/h7_slice.py)
+   * [数据的迭代输出也就是循环输出](h9/h9_iteration.py)
+   * [判断数据是否可以迭代](h9/h9_iteratable.py)
+   * [列表生成器](h9/h9_range.py)
+   * [判断文件夹下的所有文件](h9/h9_os.py)
 
 
 
