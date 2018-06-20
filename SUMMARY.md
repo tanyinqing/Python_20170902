@@ -26,6 +26,8 @@
    * [判断数据是否可以迭代](h9/h9_iteratable.py)
    * [列表生成器](h9/h9_range.py)
    * [判断文件夹下的所有文件](h9/h9_os.py)
+   * [类的定义](h10/h10_oop.py)
+   * [类的私有属性](h10/h10_private.py)
 
 
 
