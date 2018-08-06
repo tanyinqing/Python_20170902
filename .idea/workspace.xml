@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e049438-20f8-4092-a553-f4a8d93056aa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/h12/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h12/h12_poly.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/h11/h11_shape.py" beforeDir="false" afterPath="$PROJECT_DIR$/h11/h11_shape.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python学习文档.doc" beforeDir="false" afterPath="$PROJECT_DIR$/python学习文档.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$thon学习文档.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/~WRL0005.tmp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +29,7 @@
     <SUITE FILE_PATH="coverage/Python_20170902$self_definition_function.coverage" NAME="self_definition_function Coverage Results" MODIFIED="1528726746614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_20170902$h6_arguments.coverage" NAME="h6_arguments Coverage Results" MODIFIED="1528812523491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h6" />
     <SUITE FILE_PATH="coverage/Python_20170902$h9_os.coverage" NAME="h9_os Coverage Results" MODIFIED="1529417567109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h9" />
-    <SUITE FILE_PATH="coverage/Python_20170902$h12_poly.coverage" NAME="h12_poly Coverage Results" MODIFIED="1532009168181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h12" />
+    <SUITE FILE_PATH="coverage/Python_20170902$h12_poly.coverage" NAME="h12_poly Coverage Results" MODIFIED="1533558430705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h12" />
     <SUITE FILE_PATH="coverage/Python_20170902$const.coverage" NAME="const Coverage Results" MODIFIED="1528510507820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_20170902$h9_iteration.coverage" NAME="h9_iteration Coverage Results" MODIFIED="1529415102451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h9" />
     <SUITE FILE_PATH="coverage/Python_20170902$io.coverage" NAME="io Coverage Results" MODIFIED="1528380748872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -44,11 +39,11 @@
     <SUITE FILE_PATH="coverage/Python_20170902$h8_recursive_test.coverage" NAME="h8_recursive_test Coverage Results" MODIFIED="1528985616585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h8" />
     <SUITE FILE_PATH="coverage/Python_20170902$python_keys.coverage" NAME="python_keys Coverage Results" MODIFIED="1528726668063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_20170902$h10_private.coverage" NAME="h10_private Coverage Results" MODIFIED="1531828739277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h10" />
-    <SUITE FILE_PATH="coverage/Python_20170902$h11_shape.coverage" NAME="h11_shape Coverage Results" MODIFIED="1531837107862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h11" />
+    <SUITE FILE_PATH="coverage/Python_20170902$h11_shape.coverage" NAME="h11_shape Coverage Results" MODIFIED="1533558452425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h11" />
     <SUITE FILE_PATH="coverage/Python_20170902$h7_arguments.coverage" NAME="h7_arguments Coverage Results" MODIFIED="1528983015465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/h7" />
     <SUITE FILE_PATH="coverage/Python_20170902$setTest.coverage" NAME="setTest Coverage Results" MODIFIED="1528599429730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_20170902$test.coverage" NAME="test Coverage Results" MODIFIED="1528723594718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_20170902$ifTest.coverage" NAME="ifTest Coverage Results" MODIFIED="1531828887630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_20170902$ifTest.coverage" NAME="ifTest Coverage Results" MODIFIED="1533558464435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -65,7 +60,7 @@
         <entry file="file://$PROJECT_DIR$/SUMMARY.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="125">
+              <first_editor relative-caret-position="800">
                 <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
               </first_editor>
               <second_editor />
@@ -76,17 +71,26 @@
       <file leaf-file-name="h11_shape.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/h11/h11_shape.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="39" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="225">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="h12_poly.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ifTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ifTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="h12_poly.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/h12/h12_poly.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+            <state relative-caret-position="1326">
+              <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -138,11 +142,11 @@
         <option value="$PROJECT_DIR$/h9/h9_os.py" />
         <option value="$PROJECT_DIR$/h10/h10_oop.py" />
         <option value="$PROJECT_DIR$/h10/h10_private.py" />
-        <option value="$PROJECT_DIR$/h11/h11_shape.py" />
         <option value="$PROJECT_DIR$/h12.py" />
         <option value="$PROJECT_DIR$/h12_poly.py" />
         <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/h12/h12_poly.py" />
+        <option value="$PROJECT_DIR$/h11/h11_shape.py" />
       </list>
     </option>
   </component>
@@ -169,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,6 +194,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.h12_poly">
+  <component name="RunManager" selected="Python.ifTest">
     <configuration name="h11_shape" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_20170902" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,9 +327,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.h12_poly" />
-        <item itemvalue="Python.h11_shape" />
         <item itemvalue="Python.ifTest" />
+        <item itemvalue="Python.h11_shape" />
+        <item itemvalue="Python.h12_poly" />
         <item itemvalue="Python.listTest" />
         <item itemvalue="Python.ioTest" />
       </list>
@@ -419,21 +423,27 @@
       <option name="project" value="LOCAL" />
       <updated>1531832813803</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="0608">
+      <created>1532009627009</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1532009627009</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28338763" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28338763" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32861635" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -745,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ifTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/h10/h10_private.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -759,20 +762,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/h12.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/h11/h11_shape.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="39" selection-start-line="13" selection-start-column="4" selection-end-line="14" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/h12.py" />
     <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="125">
+          <first_editor relative-caret-position="800">
             <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           </first_editor>
           <second_editor />
@@ -786,8 +780,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/h12/h12_poly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+        <state relative-caret-position="1326">
+          <caret line="60" column="7" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h11/h11_shape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>

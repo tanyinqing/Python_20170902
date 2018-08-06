@@ -8,6 +8,7 @@ class Shape(object):
         pass
 class Circle(Shape):
     def area(self):
+
         print('in Circle:area...')
 # 继承父类
 class Square(Shape):
